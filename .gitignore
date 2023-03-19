@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### CSS ###
-*.css linguist-detectable=false
+.metadata
