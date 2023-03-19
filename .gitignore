@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### CSS ###
+*.css linguist-detectable=false
